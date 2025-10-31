@@ -1,0 +1,8 @@
+{
+  "short_name": "PrévGo",
+  "name": "Prév&Go - Questionnaire de Prévention en Santé",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
